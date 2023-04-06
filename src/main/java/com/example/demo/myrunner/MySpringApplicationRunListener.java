@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.myrunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringApplicationRunListener;
 import org.springframework.context.ConfigurableApplicationContext;
