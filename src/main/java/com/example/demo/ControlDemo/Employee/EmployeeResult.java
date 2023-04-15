@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.ControlDemo.Employee;
 
 public class EmployeeResult {
 	public String name;
