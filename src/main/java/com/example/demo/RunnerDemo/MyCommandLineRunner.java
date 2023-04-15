@@ -1,4 +1,4 @@
-package com.example.demo.myrunner;
+package com.example.demo.RunnerDemo;
 import java.util.Arrays;
 
 import org.springframework.boot.CommandLineRunner;
