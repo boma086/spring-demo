@@ -1,4 +1,4 @@
-package com.example.demo.WebMvcConfigurerAdapterDemo;
+package com.example.demo.WebMvcConfigurerDemo;
 
 import java.util.concurrent.ThreadPoolExecutor;
 

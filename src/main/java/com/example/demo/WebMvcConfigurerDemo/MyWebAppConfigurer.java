@@ -1,4 +1,4 @@
-package com.example.demo.WebMvcConfigurerAdapterDemo;
+package com.example.demo.WebMvcConfigurerDemo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
