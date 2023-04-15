@@ -15,6 +15,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
+import com.example.demo.ControlDemo.EmployeeController;
+
 @RunWith(SpringRunner.class)
 @WebMvcTest(EmployeeController.class)
 public class EmployeeControllerTest {
