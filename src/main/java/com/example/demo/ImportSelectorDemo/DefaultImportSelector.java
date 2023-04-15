@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.ImportSelectorDemo;
 import org.springframework.context.annotation.ImportSelector;
 import org.springframework.core.type.AnnotationMetadata;
 public class DefaultImportSelector implements ImportSelector {
