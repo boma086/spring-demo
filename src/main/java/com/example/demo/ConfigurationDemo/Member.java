@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.ConfigurationDemo;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = "com.it")
 public class Member {

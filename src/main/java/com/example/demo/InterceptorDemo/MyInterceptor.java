@@ -9,8 +9,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.example.demo.UserService;
-
 public class MyInterceptor implements HandlerInterceptor {
     //想要注入的类
     @Autowired(required = false)

@@ -1,5 +1,4 @@
 package com.example.demo.ConfigurationDemo;
-import com.example.demo.Member;
 import com.example.demo.BeanDefinitionDemo.DefaultImportBeanDefinitionRegistrar;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
