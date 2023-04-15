@@ -18,6 +18,8 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.ContextLoader;
 import org.springframework.web.context.WebApplicationContext;
+
+import com.example.demo.ControlDemo.MyWebHelloWorldController;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @WebAppConfiguration
