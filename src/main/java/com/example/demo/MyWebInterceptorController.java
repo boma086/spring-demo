@@ -4,6 +4,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.BeanPostProcessorDemo.MyFirstBeanPostProcessor;
 /**
  * @Author Christy
  * @Date 2021/9/28 10:44

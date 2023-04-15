@@ -1,8 +1,10 @@
-package com.example.demo;
+package com.example.demo.WebMvcConfigurerAdapterDemo;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+import com.example.demo.InterceptorDemo.MyInterceptor01;
 /**
  * @Author Christy
  * @Date 2021/9/15 16:24

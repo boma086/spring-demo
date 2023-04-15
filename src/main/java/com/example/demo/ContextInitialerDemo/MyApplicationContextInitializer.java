@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.ContextInitialerDemo;
 import org.springframework.context.ApplicationContextInitializer;
 import org.springframework.context.ConfigurableApplicationContext;
 /**

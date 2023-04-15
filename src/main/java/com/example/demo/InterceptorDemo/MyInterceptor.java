@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.InterceptorDemo;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -8,6 +8,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
+
+import com.example.demo.UserService;
 
 public class MyInterceptor implements HandlerInterceptor {
     //想要注入的类

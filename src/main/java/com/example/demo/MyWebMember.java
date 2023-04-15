@@ -5,6 +5,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.demo.AsyncDemo.BatchGetCustomerByID;
 import com.fasterxml.jackson.core.sym.Name;
 
 @RestController
