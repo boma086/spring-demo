@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.web.servlet.HandlerMapping;
 
 @SpringBootApplication
-@ServletComponentScan(basePackages = "com.example.demo")
+@ServletComponentScan(basePackages = "com.example.demo.*")
 @EnableAsync
 public class DemoWeb20230206Application {
 
