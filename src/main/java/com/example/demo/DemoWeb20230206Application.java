@@ -20,7 +20,7 @@ public class DemoWeb20230206Application {
       //http://localhost:8080/emp
 //        http://localhost:8080/testController/demo1
 //        http://localhost:8080/myServlet
-        System.out.println("main "+ Thread.currentThread().getName());
+        System.out.println("main  "+ Thread.currentThread().getName());
 //        HandlerMapping.BEST_MATCHING_HANDLER_ATTRIBUTE.chars();
 //        new BeanWrapperImpl();
        
